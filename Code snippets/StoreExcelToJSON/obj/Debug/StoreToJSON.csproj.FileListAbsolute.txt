@@ -1,0 +1,17 @@
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\StoreToJSON.exe.config
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\StoreToJSON.exe
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\StoreToJSON.pdb
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\EPPlus.dll
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\EPPlus.Interfaces.dll
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\EPPlus.System.Drawing.dll
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\EPPlus.xml
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\obj\Debug\StoreToJSON.csproj.AssemblyReference.cache
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\obj\Debug\StoreToJSON.csproj.CoreCompileInputs.cache
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\obj\Debug\StoreToJSON.exe
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\obj\Debug\StoreToJSON.pdb
+C:\Sakshi\Work\Software experiments\C# plugins\StoreToJSON\obj\Debug\StoreToJ.0A4210CD.Up2Date
